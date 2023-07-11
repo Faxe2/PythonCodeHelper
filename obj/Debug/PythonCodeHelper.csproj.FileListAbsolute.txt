@@ -1,0 +1,11 @@
+C:\Users\Oliver\source\repos\PythonCodeHelper\bin\Debug\PythonCodeHelper.exe.config
+C:\Users\Oliver\source\repos\PythonCodeHelper\bin\Debug\PythonCodeHelper.exe
+C:\Users\Oliver\source\repos\PythonCodeHelper\bin\Debug\PythonCodeHelper.pdb
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.csproj.AssemblyReference.cache
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.Properties.Resources.resources
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.csproj.GenerateResource.cache
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.exe
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.pdb
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.Form1.resources
+C:\Users\Oliver\source\repos\PythonCodeHelper\obj\Debug\PythonCodeHelper.csproj.SuggestedBindingRedirects.cache
